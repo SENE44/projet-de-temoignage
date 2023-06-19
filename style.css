@@ -1,0 +1,55 @@
+*{
+    padding: 0%;
+    margin: 0;
+
+}
+
+#dive{
+ text-align: center;
+ width: 70%;
+ height: 70vh;
+ margin: 7%;
+ margin-left: 14%;
+ box-shadow: 4px 5px rgb(245, 244, 239);
+ background-color: rgb(224, 224, 235);
+}
+#photo img{
+    margin: 3%;
+    width: 36%;
+    height: 24vh;
+    border-radius: 50%;
+    box-shadow: 2px 3px 3px 2px #f1f1f1;
+}
+#texte p{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    margin: 2%;
+}
+#icon{
+    margin: 5%;
+    justify-items:  space-between;
+    justify-content: space-around;
+}
+#icon i{
+    color: rgb(15, 0, 54);
+
+}
+#changement button{
+    width: 20%;
+    color: black;
+    background-color: rgb(152, 140, 172);
+
+}
+#nom p{
+    color: rgba(25, 10, 165, 0.596);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 2%;
+}
+#proffession p{
+    color: rgb(5, 131, 170);
+}
+#head p{
+    text-align: center;
+    margin-top: 3%;
+    font-size: 140%;
+}
